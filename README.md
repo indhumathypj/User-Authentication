@@ -44,6 +44,8 @@ Steps to Run the Project :
     Input Sanitization: Sanitized user inputs using PDO (PHP Data Object) to prevent SQL injection and other vulnerabilities.
     Password Hashing: Stored passwords securely using the password_hash function.
 
+12. Command to install PHPMAILER
+    composer require phpmailer/phpmailer
 
 
 
